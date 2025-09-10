@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Nabill , from Selangor</p>
+<p align="left">Im Nabill , from Selangor</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Im a young developer. Im still learning to do stuff and willing to learn.  </h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> </h2>
 
 ###
 
